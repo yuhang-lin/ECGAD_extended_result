@@ -1,4 +1,6 @@
-| Patient | training | total | percentage | testing | total | percentage |
+# Abnormal Segment Ratio of all Patients in MIT-BIH.
+## This is an extended version of table 2, showing the abnormal segment ratios of all patients.
+| Patient Number | Number of Abnormal Segments in Training| Total Number of Segments in Training | Ratio of Abnormal Segments in Training | Number of Abnormal Segments in Testing| Total Number of Segments in Testing | Ratio of Abnormal Segments in Testing|
 |---------|----------|-------|------------|---------|-------|------------|
 | 100     | 0        | 1363  | 0.00%      | 1       | 909   | 0.11%      |
 | 101     | 22       | 1132  | 1.94%      | 0       | 756   | 0.00%      |
