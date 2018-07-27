@@ -1,3 +1,6 @@
+# Extended personalized result
+## This table is an extended version of table 3 in the paper, showing the personalized result of every patient.
+
 | Patient | Sensitivity | Specificity | Accuracy | window | k  | radius |
 |---------|-------------|-------------|----------|--------|----|--------|
 | 100     | 1.00        | 1.00        | 1.00     | 25     | 7  | 2.17   |
