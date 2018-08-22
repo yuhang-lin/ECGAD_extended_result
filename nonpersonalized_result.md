@@ -2,7 +2,7 @@
 
 This table is an extended version of table 4 in the paper, showing the non-personzlied result (window w = 62, k = 17, and radius r = 1.8 for all patients’ datasets)
 
-|| Patient | Sensitivity | Specificity | Accuracy |
+| Patient | Sensitivity | Specificity | Accuracy |
 |---------|-------------|-------------|----------|
 | 100     | 1.00        | 1.00        | 1.00     |
 | 101     | N/A         | 1.00        | 1.00     |
